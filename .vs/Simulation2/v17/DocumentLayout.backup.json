@@ -1,109 +1,152 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cff\\source\\repos\\Simulation2\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602062523_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation2\\Migrations\\20260602062523_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602053749_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation2\\Migrations\\20260602053749_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\cff\\source\\repos\\simulation2\\simulation2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.314\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602163250_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation2\\Migrations\\20260602163250_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\migrations\\20260602062523_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\migrations\\20260602062523_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\migrations\\20260602053749_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\migrations\\20260602053749_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|c:\\users\\asus\\source\\repos\\simulation2\\simulation2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51FFDF28-2C3A-4EB2-A9F8-C74ABE756D76}|Simulation2\\Simulation2.csproj|solutionrelative:simulation2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,82 +157,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T08:57:50.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T08:51:46.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T08:37:15.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAADwv4sAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T06:30:19.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T06:30:00.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20260602180428_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs",
+              "RelativeToolTip": "Simulation2\\Migrations\\20260602180428_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:04:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Simulation2\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:34:38.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WorkerController.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
               "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
               "RelativeToolTip": "Simulation2\\Areas\\Admin\\Controllers\\WorkerController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwIMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T06:29:16.494Z",
               "EditorCaption": ""
@@ -197,23 +201,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T06:29:03.172Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Simulation2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T17:36:06.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Simulation2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:44:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\AppUser.cs",
+              "RelativeToolTip": "Simulation2\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:38:52.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Program.cs",
+              "RelativeToolTip": "Simulation2\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAWwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:18:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation2\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation2\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:10:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Simulation2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:43:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WorkerController.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Controllers\\WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\WorkerController.cs",
               "RelativeDocumentMoniker": "Simulation2\\Controllers\\WorkerController.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\WorkerController.cs",
               "RelativeToolTip": "Simulation2\\Controllers\\WorkerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,206 +291,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Utilities\\Extentions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeToolTip": "Simulation2\\Utilities\\Extentions\\FileValidator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAlwB0AAAAEAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Simulation2\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:15:55.815Z",
+              "WhenOpened": "2026-06-02T17:48:47.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAPgBAAAAAAAAAAAmwCICAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T06:31:04.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Simulation2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T05:30:15.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
-              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
-              "RelativeToolTip": "Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T07:03:26.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Models\\Worker.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Models\\Worker.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Models\\Worker.cs",
-              "RelativeToolTip": "Simulation2\\Models\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:11:19.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T06:30:38.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAANIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T06:30:56.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\CreateVM.cs",
-              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Worker\\CreateVM.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\CreateVM.cs",
-              "RelativeToolTip": "Simulation2\\ViewModels\\Worker\\CreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T06:35:26.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FileSize.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\FileSize.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Utilities\\Enums\\FileSize.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\FileSize.cs",
-              "RelativeToolTip": "Simulation2\\Utilities\\Enums\\FileSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:15:31.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Simulation2\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Simulation2\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-02T06:28:31.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20260602062523_init5.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602062523_init5.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602062523_init5.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602062523_init5.cs",
-              "RelativeToolTip": "Simulation2\\Migrations\\20260602062523_init5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T06:25:23.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\appsettings.json",
-              "RelativeDocumentMoniker": "Simulation2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\appsettings.json",
-              "RelativeToolTip": "Simulation2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T05:26:42.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simulation2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simulation2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJwAAAAAAAAAAADwv74AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-02T05:30:22.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20260602053749_init2.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602053749_init2.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602053749_init2.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602053749_init2.cs",
-              "RelativeToolTip": "Simulation2\\Migrations\\20260602053749_init2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:37:50.052Z",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T17:33:30.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Program.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Program.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Program.cs",
-              "RelativeToolTip": "Simulation2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Simulation2\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:18:14.032Z",
+              "WhenOpened": "2026-06-02T16:47:38.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 15,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.314\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.314\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.314\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.314\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAwwBMBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-02T17:14:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Simulation2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Simulation2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,28 +369,275 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Simulation2\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "Simulation2\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\appsettings.json",
+              "RelativeDocumentMoniker": "Simulation2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\appsettings.json",
+              "RelativeToolTip": "Simulation2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T05:26:42.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260602163250_init6.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602163250_init6.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602163250_init6.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602163250_init6.cs",
+              "RelativeToolTip": "Simulation2\\Migrations\\20260602163250_init6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:10:43.458Z",
+              "WhenOpened": "2026-06-02T16:32:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T08:57:50.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:30:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T08:51:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T08:37:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4sAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:30:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T06:29:03.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Simulation2\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Cff\\source\\repos\\Simulation2\\Simulation2\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Simulation2\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Utilities\\Extentions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeToolTip": "Simulation2\\Utilities\\Extentions\\FileValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T05:10:00.657Z",
+              "WhenOpened": "2026-06-02T05:15:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAPgBAAAAAAAAAAAmwCICAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:31:04.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simulation2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwFgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T05:30:15.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
+              "RelativeToolTip": "Simulation2\\ViewModels\\Worker\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T07:03:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\Worker.cs",
+              "RelativeToolTip": "Simulation2\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:11:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:30:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeToolTip": "Simulation2\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAIBJwNIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:30:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\CreateVM.cs",
+              "RelativeDocumentMoniker": "Simulation2\\ViewModels\\Worker\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ViewModels\\Worker\\CreateVM.cs",
+              "RelativeToolTip": "Simulation2\\ViewModels\\Worker\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T06:35:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Simulation2\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:15:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Simulation2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Simulation2\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-02T06:28:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260602062523_init5.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602062523_init5.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602062523_init5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602062523_init5.cs",
+              "RelativeToolTip": "Simulation2\\Migrations\\20260602062523_init5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T06:25:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260602053749_init2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602053749_init2.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Migrations\\20260602053749_init2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Migrations\\20260602053749_init2.cs",
+              "RelativeToolTip": "Simulation2\\Migrations\\20260602053749_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:37:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Simulation2\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Simulation2\\Simulation2\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Simulation2\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T05:10:43.458Z",
               "EditorCaption": ""
             }
           ]

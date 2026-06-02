@@ -1869,6 +1869,7 @@ wwwroot\assets\images\8aee128c-7c37-40f1-b3d8-e7456123c26fpexels-gmb-visuals-564
 wwwroot\assets\images\about-bg.jpg
 wwwroot\assets\images\appointment-image.jpg
 wwwroot\assets\images\author-image.jpg
+wwwroot\assets\images\e35e2c38-57ef-46bd-b0d1-f6951795a5baunnamed.jpg
 wwwroot\assets\images\news-image.jpg
 wwwroot\assets\images\news-image1.jpg
 wwwroot\assets\images\news-image2.jpg
@@ -1877,7 +1878,6 @@ wwwroot\assets\images\slider1.jpg
 wwwroot\assets\images\slider2.jpg
 wwwroot\assets\images\slider3.jpg
 wwwroot\assets\images\team-image1.jpg
-wwwroot\assets\images\team-image2.jpg
 wwwroot\assets\images\team-image3.jpg
 wwwroot\assets\js\bootstrap.min.js
 wwwroot\assets\js\custom.js
