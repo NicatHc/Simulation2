@@ -1,0 +1,32 @@
+﻿@using Simulation2.ViewModels.Worker
+@model CreateVM
+
+
+<form method="post"  enctype="multipart/form-data"          >
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control" id="Name" aria-describedby="Name">
+        <span  asp-validation-for="Name"></span>
+ 
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Job">Job</label>
+        <input asp-for="Job" class="form-control" id="Job" aria-describedby="Job">
+        <span asp-validation-for="Job"></span>
+
+    </div>
+
+
+
+
+    <div class="form-group">
+        <label asp-for="Photo">Photo</label>
+        <input asp-for="Photo" class="form-control" id="Photo" aria-describedby="Photo">
+        <span asp-validation-for="Photo"></span>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

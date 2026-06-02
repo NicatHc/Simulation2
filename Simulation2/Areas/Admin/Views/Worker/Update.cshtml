@@ -1,0 +1,34 @@
+﻿@using Simulation2.ViewModels.Worker
+@model UpdateVM
+
+<form method="post" enctype="multipart/form-data">
+
+    <input asp-for="Image" type="hidden" />
+
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Job">Job</label>
+        <input asp-for="Job" class="form-control" />
+        <span asp-validation-for="Job"></span>
+    </div>
+
+    <div class="form-group">
+        <img src="~/assets/images/@Model.Image"
+             class="img-responsive"
+             alt="@Model.Image" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Photo">New Photo</label>
+        <input asp-for="Photo" class="form-control" />
+        <span asp-validation-for="Photo"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+
+</form>

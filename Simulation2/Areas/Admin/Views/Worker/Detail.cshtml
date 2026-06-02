@@ -1,0 +1,18 @@
+﻿@model Worker
+
+<div class="container mt-4">
+    <h2>Worker Detail</h2>
+
+    <div class="card" style="width: 22rem;">
+        <img src="~/assets/images/@Model.Image" class="card-img-top" alt="@Model.Name">
+
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">
+                <strong>Job:</strong> @Model.Job
+            </p>
+
+            <a asp-action="Index" class="btn btn-primary">Back to List</a>
+        </div>
+    </div>
+</div>
